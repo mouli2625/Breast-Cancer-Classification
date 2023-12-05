@@ -1,1 +1,3 @@
 # Breast-Cancer-Classification
+
+This project helps doctors by classifying the patients based on the need of surgery. Breast cancer has been a deadliest disease among womens.There are two tisues which can lead to breast cancer they are benign and malignant. Beningn tissues can be cured via medication but malignant tissues can't be cured through medication it requires surgery. Hence This model will be trained with a sample data and tested on the remaining data to ensure there would be more accuracy for models.Three supervised machine learning techniques are being used. They were Logistic Regression, Decision tree classifier, Random forest classifier. The model which gives high accuracy is recommended to use.
